@@ -1,0 +1,21 @@
+{
+  "name": "capsnet",
+  "version": "0.0.1",
+  "description": "Capsule Net in nodejs",
+  "dependencies": {
+    "deeplearn": "latest"
+  },
+  "engines": {
+    "node": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alseambusher/capsnet.js"
+  },
+  "keywords": [
+    "Deep learning",
+    "Capsule Net"
+  ],
+  "author": "Suresh Alse",
+  "license": "MIT"
+}
